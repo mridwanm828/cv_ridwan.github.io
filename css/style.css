@@ -8138,7 +8138,9 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: #999999;
+  margin-left: 20px;
+  margin-right: 20px;}
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8435,7 +8437,7 @@ h1, h2, h3, h4, h5,
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center;
-      height: 850px;
+      height: 750px;
       position: relative;
       z-index: 0; }
       @media (max-width: 1199.98px) {
